@@ -1,6 +1,6 @@
 <?php
 
-include 'vendor/autoload.php';
+require 'vendor/autoload.php';
 
 //Информация о городе
 
